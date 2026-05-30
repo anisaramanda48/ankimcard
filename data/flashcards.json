@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "id": "anjen",
+      "name": "Analisis Jenis",
+      "icon": "🧪",
+      "description": "Hafalan reaksi spesifik, warna larutan, dan endapan kation/anion.",
+      "cards": [
+        {
+          "id": 1,
+          "front": "Kation Fe³⁺ jika ditambahkan pereaksi SCN⁻ akan menghasilkan...",
+          "back": "Larutan berwarna MERAH DARAH"
+        },
+        {
+          "id": 2,
+          "front": "Reaksi spesifik untuk mengidentifikasi kation Pb²⁺ menggunakan pereaksi K₂CrO₄ akan menghasilkan...",
+          "back": "Endapan berwarna KUNING, larutan tidak berwarna"
+        },
+        {
+          "id": 3,
+          "front": "Kation Al³⁺ jika ditambahkan pereaksi NH₄OH akan menghasilkan...",
+          "back": "Endapan berwarna PUTIH, larutan tidak berwarna (Al(OH)₃)"
+        },
+        {
+          "id": 4,
+          "front": "Kation Ba²⁺ jika ditambahkan pereaksi K₂CrO₄ akan menghasilkan...",
+          "back": "Endapan berwarna KUNING (BaCrO₄)"
+        },
+        {
+          "id": 5,
+          "front": "Kation Golongan I (Ag⁺, Pb²⁺, Hg₂²⁺) akan mengendap jika ditambahkan pereaksi berupa...",
+          "back": "Asam Klorida (HCl) dalam bentuk ENDAPAN PUTIH"
+        },
+        {
+          "id": 6,
+          "front": "Pada kation Sr²⁺ jika ditambahkan pereaksi Na₂CO₃ akan menghasilkan...",
+          "back": "Endapan berwarna PUTIH, larutan kuning"
+        },
+        {
+          "id": 7,
+          "front": "Kation Ca²⁺ akan mengendap jika ditambahkan pereaksi berupa...",
+          "back": "Asam oksalat dan amonium hidroksida dalam bentuk ENDAPAN PUTIH (CaC₂O₄)"
+        }
+      ]
+    },
+    {
+      "id": "gravimetri",
+      "name": "Gravimetri",
+      "icon": "⚖️",
+      "description": "Hafalan karakteristik fisik endapan dan reagen pengendap kuantitatif.",
+      "cards": [
+        {
+          "id": 1,
+          "front": "Apa bedanya kertas saring kuantitatif (bebas abu seperti Whatman) dengan kertas saring biasa untuk laporan gravimetri?",
+          "back": "Kertas saring kuantitatif meninggalkan berat abu HAMPIR NOL saat dipijarkan di dalam tanur, sehingga tidak memengaruhi berat endapan murni."
+        },
+        {
+          "id": 2,
+          "front": "Whatman No. 41 digunakan untuk endapan berbentuk... sedangkan Whatman No. 42 untuk endapan berbentuk...",
+          "back": "No. 41 → endapan GELATIN/GUMPALAN BESAR (seperti Besi); No. 42 → endapan KRISTAL HALUS (seperti Barium)"
+        },
+        {
+          "id": 3,
+          "front": "Bagaimana tampilan fisik dan warna endapan Barium Sulfat (BaSO₄) sesaat setelah ditambahkan reagen pengendap H₂SO₄?",
+          "back": "Endapan PUTIH HALUS berbentuk KRISTAL"
+        },
+        {
+          "id": 4,
+          "front": "Bagaimana cara menguji bahwa pencucian endapan BaSO₄ sudah bebas dari pengotor ion klorida (Cl⁻)?",
+          "back": "Filtrat cucian ditetesi AgNO₃. Jika filtrat TETAP JERNIH (tidak keruh putih), berarti endapan sudah bersih."
+        },
+        {
+          "id": 5,
+          "front": "Bagaimana karakteristik fisik dan warna endapan Fe(OH)₃ setelah penambahan NH₄OH?",
+          "back": "Berbentuk GUMPALAN GELATIN (seperti lem/selai) berwarna COKELAT KEMERAHAN"
+        },
+        {
+          "id": 6,
+          "front": "Setelah endapan besi dipijarkan di dalam tanur (suhu tinggi), warna endapan berubah menjadi...",
+          "back": "COKELAT KEHITAMAN / MERAH BATA TUA (karena berubah menjadi Fe₂O₃)"
+        },
+        {
+          "id": 7,
+          "front": "Bagaimana sifat fisik dan warna endapan Perak Klorida (AgCl) yang terbentuk dalam suasana asam?",
+          "back": "Endapan PUTIH BERGUMPAL"
+        },
+        {
+          "id": 8,
+          "front": "Apa yang terjadi pada warna endapan AgCl jika terkena paparan cahaya matahari langsung?",
+          "back": "Berubah menjadi KEABU-ABUAN atau UNGU KEHITAMAN karena perak tereduksi menjadi logam Ag"
+        },
+        {
+          "id": 9,
+          "front": "Bagaimana wujud fisik sampel (misal tepung) setelah dipanaskan di oven 130°C pada analisis kadar air?",
+          "back": "Tetap berupa SERBUK KERING, namun bobotnya menyusut akibat lepasnya air bebas."
+        },
+        {
+          "id": 10,
+          "front": "Bagaimana wujud visual sampel setelah dimasukkan ke dalam tanur 550°C pada analisis kadar abu?",
+          "back": "Berubah menjadi SERBUK ABU berwarna PUTIH KEABU-ABUAN karena senyawa organik terbakar habis."
+        }
+      ]
+    },
+    {
+      "id": "titrimetri",
+      "name": "Titrimetri / Volumetri",
+      "icon": "🧫",
+      "description": "Hafalan perubahan warna indikator dan Titik Akhir Titrasi (TAT).",
+      "cards": [
+        {
+          "id": 1,
+          "front": "Perubahan warna TAT pada standardisasi NaOH dengan asam oksalat (Indikator PP) adalah...",
+          "back": "Dari TIDAK BERWARNA (jernih) → MERAH MUDA SEULAS (bertahan minimal 15 detik)"
+        },
+        {
+          "id": 2,
+          "front": "Perubahan warna TAT pada standardisasi HCl dengan boraks (Indikator Merah Metil) adalah...",
+          "back": "Dari KUNING → MERAH JINGGA (warna sindur)"
+        },
+        {
+          "id": 3,
+          "front": "Pada penetapan kadar asam cuka (Alkalimetri), warna apa yang menandakan titrasi harus dihentikan?",
+          "back": "MERAH MUDA SEULAS (menggunakan indikator PP)"
+        },
+        {
+          "id": 4,
+          "front": "Pada titrasi campuran Warder (NaOH + Na₂CO₃), apa yang terjadi saat Titik Akhir pertama (TAT PP) tercapai?",
+          "back": "Warna MERAH MUDA TEPAT HILANG (menjadi jernih). NaOH habis dan Na₂CO₃ diubah menjadi NaHCO₃."
+        },
+        {
+          "id": 5,
+          "front": "Setelah TAT PP pada campuran Warder, titrasi dilanjutkan dengan indikator Jingga Metil hingga warna berubah menjadi...",
+          "back": "Dari KUNING → MERAH JINGGA"
+        },
+        {
+          "id": 6,
+          "front": "Mengapa titrasi Permanganometri tidak membutuhkan indikator warna tambahan?",
+          "back": "Karena KMnO₄ bertindak sebagai AUTO-INDIKATOR (warnanya sendiri menandakan titik akhir)"
+        },
+        {
+          "id": 7,
+          "front": "Warna Titik Akhir Titrasi (TAT) yang konstan pada titrasi Permanganometri adalah...",
+          "back": "MERAH MUDA SANGAT TIPIS (merah jambu pucat) yang tidak hilang saat dikocok"
+        },
+        {
+          "id": 8,
+          "front": "Pada titrasi Iodometri, kapan amilum ditambahkan dan pada warna larutan seperti apa?",
+          "back": "Amilum ditambahkan saat larutan berwarna KUNING JERAMI / KUNING PUCAT (dari cokelat tua)"
+        },
+        {
+          "id": 9,
+          "front": "Perubahan warna tepat pada TAT Iodometri setelah ditambahkan indikator amilum adalah...",
+          "back": "Dari BIRU TUA → tepat menjadi JERNIH / TIDAK BERWARNA"
+        },
+        {
+          "id": 10,
+          "front": "Pada Argentometri Metode Mohr (penetapan kadar klorida), perubahan warna visual TAT adalah...",
+          "back": "Terbentuk ENDAPAN MERAH BATA samar dari Ag₂CrO₄ di antara endapan putih AgCl"
+        },
+        {
+          "id": 11,
+          "front": "Perubahan warna TAT pada penentuan kesadahan air (Ca²⁺ dan Mg²⁺) menggunakan indikator EBT adalah...",
+          "back": "Dari MERAH ANGGUR → BIRU MURNI / BIRU LAUT (bebas dari warna kemerahan)"
+        }
+      ]
+    }
+  ]
+}
